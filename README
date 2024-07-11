@@ -1,6 +1,11 @@
-# StopWatch
+# Java Stopwatch Application
 
-A simple stopwatch application built with [insert programming language/framework here].
+This is a simple Java application that demonstrates the use of the `>>` (signed right shift) and `>>>` (unsigned right shift) operators along with implementing a basic stopwatch using Swing for GUI.
+
+## Features
+
+- Start and stop a stopwatch using GUI buttons.
+- Display the elapsed time in milliseconds.
 
 ## Description
 
